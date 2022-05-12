@@ -1,5 +1,8 @@
 {
-  "name": "component-library",
+  "name": "@phuongthuan/component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/phuongthuan"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
